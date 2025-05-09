@@ -1,16 +1,22 @@
-# bharat_nxt_task
+# Bharat NXT
 
-Baharat NXT Task
+A Flutter app that displays articles from a REST API with features like search, pull-to-refresh, favorites tab, and persistent local storage.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Setup Instructions
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter SDK 3+](https://docs.flutter.dev/get-started/install)
+- Android Studio or Visual Studio Code
+- A real or virtual Android/iOS device
+- Git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Steps to Run the App
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/parthmahajan31/Articles-App.git
+cd bharat_nxt_app
